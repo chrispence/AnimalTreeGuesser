@@ -1,0 +1,5 @@
+d:\chris\documents\visual studio 2015\Projects\AnimalTreeGuesser\Engine\bin\Debug\Engine.dll
+d:\chris\documents\visual studio 2015\Projects\AnimalTreeGuesser\Engine\bin\Debug\Engine.pdb
+d:\chris\documents\visual studio 2015\Projects\AnimalTreeGuesser\Engine\obj\Debug\Engine.csprojResolveAssemblyReference.cache
+d:\chris\documents\visual studio 2015\Projects\AnimalTreeGuesser\Engine\obj\Debug\Engine.dll
+d:\chris\documents\visual studio 2015\Projects\AnimalTreeGuesser\Engine\obj\Debug\Engine.pdb

@@ -1,0 +1,11 @@
+d:\chris\documents\visual studio 2015\Projects\AnimalTreeGuesser\AnimalTreeGuesser\bin\Debug\AnimalTreeGuesser.exe.config
+d:\chris\documents\visual studio 2015\Projects\AnimalTreeGuesser\AnimalTreeGuesser\bin\Debug\AnimalTreeGuesser.exe
+d:\chris\documents\visual studio 2015\Projects\AnimalTreeGuesser\AnimalTreeGuesser\bin\Debug\AnimalTreeGuesser.pdb
+d:\chris\documents\visual studio 2015\Projects\AnimalTreeGuesser\AnimalTreeGuesser\bin\Debug\Engine.dll
+d:\chris\documents\visual studio 2015\Projects\AnimalTreeGuesser\AnimalTreeGuesser\bin\Debug\Engine.pdb
+d:\chris\documents\visual studio 2015\Projects\AnimalTreeGuesser\AnimalTreeGuesser\obj\Debug\AnimalTreeGuesser.csprojResolveAssemblyReference.cache
+d:\chris\documents\visual studio 2015\Projects\AnimalTreeGuesser\AnimalTreeGuesser\obj\Debug\AnimalTreeGuesser.AnimalTreeGuesser.resources
+d:\chris\documents\visual studio 2015\Projects\AnimalTreeGuesser\AnimalTreeGuesser\obj\Debug\AnimalTreeGuesser.Properties.Resources.resources
+d:\chris\documents\visual studio 2015\Projects\AnimalTreeGuesser\AnimalTreeGuesser\obj\Debug\AnimalTreeGuesser.csproj.GenerateResource.Cache
+d:\chris\documents\visual studio 2015\Projects\AnimalTreeGuesser\AnimalTreeGuesser\obj\Debug\AnimalTreeGuesser.exe
+d:\chris\documents\visual studio 2015\Projects\AnimalTreeGuesser\AnimalTreeGuesser\obj\Debug\AnimalTreeGuesser.pdb
